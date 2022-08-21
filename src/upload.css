@@ -1,0 +1,32 @@
+.container-upload{
+    height: 25vh;
+    width: 40vw;
+    margin-top: 20vh;
+    margin-left: 30vw;
+    border: 2px solid gray;
+    padding: 25px;
+    text-align: center;
+}
+input{
+    margin: 10px;
+    height: 22px;
+    margin-top: 15px;
+}
+.first{
+    display: flex;
+}
+.input1{
+    width: 32vw;
+}
+.input2{
+    width: 18vw;
+}
+.input3{
+    width: 38vw;
+}
+button{
+    margin-top: 15px;
+    width: 5vw;
+    height: 3vh;
+    font-weight: bold;
+}

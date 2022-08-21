@@ -1,0 +1,54 @@
+.Logo{
+    height: 80px;
+    width: 120px;
+    margin-left: 8px;
+    margin-top: 4px;
+}
+.Camera{
+    height: 100px;
+    width: 100px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.post{
+    height: 70vh;
+    width: 50vw;
+    border: 1px solid grey;
+    margin-left: 25vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+.info{
+    display: flex;
+    justify-content: space-between;
+    margin:0vh 5vw ;
+}
+.user-location{
+    color: gray;
+    display: flex;
+    margin-top: 1px;
+    margin-left: 5vw;
+}
+img{
+    height: 40vh;
+    width: 50vw;
+}
+.user-data{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5vw;
+    color: gray;
+}
+.like{
+    display: flex;
+    color: gray;
+    margin-left: 5vw;
+}
+.description{
+    font-weight: bold;
+    font-size: xx-large;
+    display: flex;
+    margin-left: 5vw;
+}
